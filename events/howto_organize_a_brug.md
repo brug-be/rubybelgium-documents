@@ -20,7 +20,7 @@ great place to find help, to do pair programming, to help a fellow, or simply to
   * the Pizza
     * the same day, remind ppl to answer the question by sending an email to the attendees via meetup.com
     * before the meetup, count the number of people that wants a pizza
-    * at 6PM order the pizzas on https://rubyburgers.slack.com/
+    * at 6PM order the pizzas on http://dominospizza.be/
     * collect the money
   * the drinks are provided by the association (beers and soft drinks)
 
