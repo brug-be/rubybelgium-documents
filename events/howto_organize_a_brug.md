@@ -16,6 +16,7 @@ great place to find help, to do pair programming, to help a fellow, or simply to
   * announce it
     * on Twitter with @brug_be (2 weeks before, 1 week before, 1 day before, the same day)
     * on https://rubyburgers.slack.com/
+    * on rubybelgium.be (https://github.com/brug-be/rubybelgium/blob/master/data/events.yml)
     * on some calendar (Betagroup, ask Stefania) or newsletter (Startup Digest michel [at] startupdigest [dot] co)
   * the Pizza
     * the same day, remind ppl to answer the question by sending an email to the attendees via meetup.com
