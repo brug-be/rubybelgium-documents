@@ -14,8 +14,8 @@ great place to find help, to do pair programming, to help a fellow, or simply to
     * see description template below
     * attendants can say if they want to eat or not when RSVP
   * announce it
-    * on Twitter with @brug_be (2 weeks before, 1 week before, 1 day before, the same day)
-    * on the [RubyBelgium Facebook page](https://www.facebook.com/rubybelgium)
+    * on Twitter with @brug_be (2 weeks before, 1 week before, 1 day before, the same day) (ping [Toch](https://github.com/toch) for access)
+    * on the [RubyBelgium Facebook page](https://www.facebook.com/rubybelgium) (ping [Boris](https://github.com/borisrorsvort) for access)
     * on https://rubyburgers.slack.com/
     * on rubybelgium.be (https://github.com/brug-be/rubybelgium/blob/master/data/events.yml)
     * on some calendar (Betagroup, ask Stefania) or newsletter (Startup Digest michel [at] startupdigest [dot] co)
