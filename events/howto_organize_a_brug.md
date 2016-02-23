@@ -43,3 +43,19 @@ Description template for meetup.com
 >Sponsor:
 >
 >Betacowork can host participants for free if they need a place to work on the day of the event. Here is the link to signup: www.betacowork.com/try
+
+Email reminder template:
+
+>Subject: BRUG [Month] [Year] - Catering reminder
+>
+>Hello dear Rubyists,
+>
+>As usual, here's the quick reminder for tonight's catering: I will be ordering Domino's pizzas at 18:00 for those of you who answered "Yes to pizza" in the RSVP.
+>
+>If you want one ordered for you, and haven't said so yet, please complete the RSVP before tonight (it's the green box on the upper right corner of the event's page). And bring 10€, to make the delivery wo/man happy :-).
+>
+>If you have special requirements (vegeterian, vegan, etc.), or questions, please leave a comment on the RSVP or on the event's comments section.
+>
+>See you all tonight!
+>
+>[Your name]
