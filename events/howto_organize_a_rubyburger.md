@@ -15,7 +15,7 @@ There is no better way to know each other than sharing food, drinks, and discuss
   * 2 week in advance at least
   * pick a place, book a table
     * depending on the restaurant the maximum of attendees can change. according our experience, the ideal group size is 10.
-  * schedule it on http://www.meetup.com/ruby_burgers-rb
+  * schedule it on meetup.com/ruby_belgium
     * add a nice description related to the current month, season
     * set the maximum of RSVP
     * don't set the date and the place before having booked the table
