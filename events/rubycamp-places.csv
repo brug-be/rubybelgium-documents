@@ -1,4 +1,4 @@
-nom,nbre de pers. max,chambres,prix,url
+name,max pers.,rooms,price,url
 La Baraque de Laurent,30,5,,http://www.baraquelaurent.be
 Ferme Château de Dourbes,25/43,8,"1,752.00€",https://www.gitesdewallonie.be/hebergement/gite-rural/viroinval/ferme-chateau-de-dourbes
 La Ferme de la Galoperie,28/30,8,820€,https://www.gitesdewallonie.be/hebergement/gite-rural/couvin/la-ferme-de-la-galoperie
