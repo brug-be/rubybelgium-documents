@@ -21,6 +21,9 @@ Once the date is chosen, announce it:
 - database of coaches - in Drive + see Slack channel
 - try to get girls as coaches too, girls like it and feel more comfortable
 
+- DRIVE = a folder in [Google Drive](https://drive.google.com/drive/u/1/folders/0B7TFD8roJowGN29ENHpSckpwdUE) which contains a good overview of all previous editions
+- if you don't have access and need to, feel free to request it with a small message regarding your need
+
 ## 4. Sponsorship
 
 - database of companies we always write to - in Drive
@@ -52,6 +55,7 @@ Once the date is chosen, announce it:
 ## 8. Schedule
 
 #### Friday evening
+- we start at ~18:30 and it usually lasts until 20-21 o'clock
 - we try to get sticks with all the stuff we want to install (Ruby, Rails, Sublime)
 - for Rails, we follow guidelines from [Rails Girls website](http://guides.railsgirls.com/install)
 - good luck with Windows or very old OSx versions - suggest instead an environment with a cloud IDE: e.g. https://www.nitrous.io/
