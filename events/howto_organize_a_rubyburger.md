@@ -9,7 +9,7 @@ There is no better way to know each other than sharing food, drinks, and discuss
 ## Brussels Chapter
 
 * Where? a burger restaurant in Brussels (L'amour fou, Houtsiplou, Les super filles du tram, Boston café, Marcel Burger Bar,
-  Manhattn's, Ellis Gourmet Burger, Michaël Collins)
+  Manhattn's, Ellis Gourmet Burger, Michaël Collins) https://www.augoutdemma.be/49532-manger-burger-bruxelles-restaurants
 * When? When it suits you. Check Brug meetup.
 * How to plan one?
   * 2 week in advance at least
