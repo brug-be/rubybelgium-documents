@@ -1,7 +1,7 @@
 # Ordinary General Assembly of Ruby Belgium
-Linkebeek, xx March 2018
+Linkebeek, xx May 2018
 Christophe Philemotte, President
-Approved by the Board on the xxth Nov 2017 ()
+Approved by the Board on the xxth May 2018 ()
 
 ## Agenda
 
@@ -201,21 +201,80 @@ Members leaving:
 
 Should we or not? to provide a longer explanation.
 
+### Project 2018 and new board
+
+We (Martin, Sandjiv, Tiago, Silvana, Laszlo, Ana & Stan) are candidates to the next board. First of all, we want to thank the current board for their dedication those last years. While our backgrounds and skills differ, we have benefited from RubyBelgium community and want to contribute to see it continue.
+
+The 7 of us are ready to invest our time and energy to grow and nurture the community.
+
+#### First objectives
+
+One of the first actions we would like to do is to contact the community to ask what people expect from RubyBelgium, in order to serve it the best we can. Altough we care about every Rubyist, regardless of experience, gender or origin, we think the community should be specially warm to the people new in the field - they are the future of the community, and experienced Rubyist often have already their own networks. We see an important role for us as mentors for the newer/younger members.
+
+Our first objective would be to reactivate the monthly "Code Together" - events where we can meet and talk about our various projects, with the occasional talk or live code. Those events are also a good way to get in contact with the community. We are also keen to continue organizing Rails Girls.
+
+#### Budget 2018
+
+Regarding budget, while important we feel that most of our ambitions require first and foremost time. Having some money could help get for example food and drinks in the events. Until further discussion can be hold, we propose to maintain the current 25€ stipend for members to be able to vote. Should more monetary means be necessary, we would like to reach to the companies benefiting from the eco system - starting with those we are working with/for, either for direct money transfer or to sponsor costly activities. We may want to look at subsidy opportunities also.
+
+#### Association
+
+As for the association, the following people would like to apply for these given roles:
+
+* Martin, for the role of Secretary
+* Laszlo, for the role of Treasurer
+* Stan, for the role of President
+
+#### Personal Investment
+
+To do so, each of us is going to make space in their own lives, but we also intend to reach to a "second circle" of people that may be interested to help on a irregular basis.
+
+#### New Team
+
+To conclude our proposal, here are a few words regarding the motivation of each and everyone of us:
+
+##### Ana
+Working at Le Wagon, I noticed my students were eager to join the world of coding, but didn't know where to start. They are my main motivation for joining Ruby Belgium, as I hope we can organise events that will bring juniors and more experience developers to meet in a fantastic atmosphere! As a feminist, I am also committed to question why most of my students are men, and I hope Ruby Belgium, through inclusive workshops such as Rails Girls, has the potential to be a big step for better representation
+
+##### Laszlo
+
+Code, Education, Mentoring and working to grow a cool community. A bit of all my favourite topics are on the table with this organization, . Working a lot with juniors as a coach at Le Wagon, Techies Lab, in my own agency or even once at Rails Girls, one of my biggest conclusion is that juniors are capable but they need a boost in their self-confidence in order to perform and grow as developers. Mentoring and different kind of events that Ruby Belgium has always perform and others that it could perform could give them that boost. On another hand, I believe that computer science should have a bigger spot in the general culture in order to make it in the general education system. And as Ruby is beginner-friendly, I'm sure Ruby Belgium could be a good initiator to start that process.
+
+##### Martin
+
+I like coding - but I also like teaching/coaching, activities I've kept as "side jobs" since a while now. Meeting and helping members of the community would be a way for me to "pay back" what others have done for me as a young developer, and hopefully help them as much joy in Ruby and programming
+
+##### Sandjiv
+
+I've arrived in Brussel not so long ago, and out of work, Ruby Belgium member are about the only people i know so i 'd like to help as much as possible to bring said people together and maybe give to newcomers the same experience. I like putting processes in place and looking at them while they continue and evolve so I figured Ruby Belgium would be a good place to be.
+
+##### Silvana
+
+Main motivation is to organize fun meet-ups for people who learn Ruby, focusing on beginners. Secondary motivation is to share beers and knowledge with friends of Ruby.
+
+##### Stan
+
+I've arrived in Belgium 4 years ago and Ruby Belgium (which at the time was only based on the Meetups I think) really helped both professionnaly and personnaly. It gave me a boost of confidence and I saw first-hand the impact we can have on juniors. After helping around sporadically, I'd like to be more invested and lead changes, bring the community tighter together, help organize events and put an emphasis on newcomers to nurture a lasting community!
+
+#### Tiago
+
+A community (and an association) like Ruby Belgium only makes sense if it's for and by enthusiast people. I've felt this renewed enthusiasm in all the new board member candidates. With them, I believe we can organize delightful events again, that will help others, especially beginners and newcomers, to learn, enjoy, and share the good spirit around Ruby we all cherish.
+
 ### Election of the board 2018
 
 New members to vote for:
 
+* Martin
+* Laszlo
+* Stan
+* ?
 * ?
 
 Vote for the 5 new board members.
 
 ### Dissolution of the board 2016-2017
-The current board will be dissolved at the end of ?.
 
-## Budget 2018
-Based on 2016 and 2017 expenses and some observations, below a budget for 2018:
-
-TODO
+The current board will be dissolved at the end of May 2018.
 
 ## Approval of Membership Fee 2018
 
@@ -223,7 +282,9 @@ The Board suggests to keep it the same than last year, i.e. 25€, as we do not
 have yet a clear definition of what we can offer back.
 
 ## Approval Budget 2018
+
 Cf the budget above.
 
 ## Closing
+
 The General Assembly will be closed with some final words.
