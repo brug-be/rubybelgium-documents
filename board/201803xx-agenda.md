@@ -267,10 +267,8 @@ New members to vote for:
 * Martin
 * Laszlo
 * Stan
-* ?
-* ?
 
-Vote for the 5 new board members.
+Vote for the 3 new board members.
 
 ### Dissolution of the board 2016-2017
 
